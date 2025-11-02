@@ -1,0 +1,9 @@
+{
+  "name": "kexport-render",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@sparticuz/chromium": "^124.0.0",
+    "puppeteer-core": "^22.6.5"
+  }
+}
